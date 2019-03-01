@@ -77,23 +77,7 @@
 <td>Maybe</td>
 </tr>
 
-   +-------------------+---------------------+
-   |                   |                     |
-<tr> <th>Event  </th>   <th>Good or Bad ?</th></tr>      |
-   +-------------------+---------------------+
-   |                   |                     |
-<tr> <td>Lose a horse</td><td>Maybe  </td>|</tr>
-   +-------------------+---------------------+
-   |                   |                     |
-<tr><td>Win more horses</td><td>  Maybe  </td></tr>       |
-   +-------------------+---------------------+
-   |                   |                     |
-<tr><td>Son injury</td><td>Maybe </td></tr>          |
-   +-------------------+---------------------+
-   |                   |                     |
-<tr><td>| Avoid war</td><td> Maybe    </td></tr>         |
-   +-------------------+---------------------+
-  <caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
+<caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
 </table>
    
    
