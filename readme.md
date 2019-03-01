@@ -51,22 +51,47 @@
 
 <h2>Here is this dialog in the form of a table</h2>
 <br>
-<table>
+<table><!--making a new table-->
+<tr>
+<th>Event</th>
+<th>Good or Bad ?</th>
+</tr>
+
+<tr>
+<td>Lose a horse</td>
+<td>Maybe</td>
+</tr>
+
+<tr>
+<td>Win more horses</td>
+<td>Maybe</td>
+</tr>
+
+<tr>
+<td>Son Injury</td>
+<td>Maybe</td>
+</tr>
+
+<tr>
+<td>Avoid war</td>
+<td>Maybe</td>
+</tr>
+
    +-------------------+---------------------+
    |                   |                     |
 <tr> <th>Event  </th>   <th>Good or Bad ?</th></tr>      |
    +-------------------+---------------------+
    |                   |                     |
-<tr> <td>Lose a horse</td><td>|  Maybe  </td>|</tr>
+<tr> <td>Lose a horse</td><td>Maybe  </td>|</tr>
    +-------------------+---------------------+
    |                   |                     |
-<tr><td>Win more horses</td></tr><td>  Maybe  </td></tr>       |
+<tr><td>Win more horses</td><td>  Maybe  </td></tr>       |
    +-------------------+---------------------+
    |                   |                     |
-<tr><td>Son injury</td></tr><td>Maybe </td></tr>          |
+<tr><td>Son injury</td><td>Maybe </td></tr>          |
    +-------------------+---------------------+
    |                   |                     |
-<tr><td>| Avoid war</td></tr><td> Maybe    </td></tr>         |
+<tr><td>| Avoid war</td><td> Maybe    </td></tr>         |
    +-------------------+---------------------+
   <caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
 </table>
