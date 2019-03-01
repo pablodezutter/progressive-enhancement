@@ -16,9 +16,9 @@
 <h2>Preamble</h2>
 <br
 <ul>
-<li>- read this once</li>
-<li>- then read it again</li>
-<li>- then tell it to your best friend</li>
+<li> read this once</li>
+<li> then read it again</li>
+<li> then tell it to your best friend</li>
 </ul>
 </header>
 
@@ -60,15 +60,15 @@
 <tr> <td>Lose a horse</td><td>|  Maybe  </td>|</tr>
    +-------------------+---------------------+
    |                   |                     |
-<tr><td>Win more horses</td> <td>  Maybe  </td></tr>       |
+<tr><td>Win more horses</td></tr><td>  Maybe  </td></tr>       |
    +-------------------+---------------------+
    |                   |                     |
-<tr><td>Son injury</td></tr><td>  |  Maybe </td></tr>          |
+<tr><td>Son injury</td></tr><td>Maybe </td></tr>          |
    +-------------------+---------------------+
    |                   |                     |
 <tr><td>| Avoid war</td></tr><td> Maybe    </td></tr>         |
    +-------------------+---------------------+
-  </table><caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
+  <caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
 </table>
    
    
