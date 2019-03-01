@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>The Story of the Chinese Farmer</title>
 </head>
 <body>
 <header
@@ -9,7 +8,7 @@
 
 <p>11 may 2016, Alexandre Gorius</p>
 
-<img>[ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]</img>
+<img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"</img>
 <a src="https://nationall.eu/"></a>
 <a src="https://www.linkedin.com/in/alexandre-gorius/"><</a>
 
@@ -54,7 +53,7 @@
 <table><!--making a new table-->
 <tr>
 <th>Event</th>
-<th>Good or Bad ?</th>
+<th><span class="good">Good</span> or <span class="bad"> Bad</span>?</th>
 </tr>
 
 <tr>
@@ -86,7 +85,8 @@
 <br>
 ----
 <footer>
-<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/<p>
+<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href:"https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="blank">click here to go</a><p>
+
 </footer>
 </body>
 </html>
