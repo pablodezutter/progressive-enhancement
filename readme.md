@@ -91,7 +91,7 @@
 ----
 
 <footer>
-<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href= "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="adapted" from this article on wellsbaum.blog">click here to go</a><p>
+<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href= "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="adapted">click here to go</a><p>
 
 </footer>
 </body>
