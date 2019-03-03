@@ -10,7 +10,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"></img>
 <a src="https://nationall.eu/"></a>
-<a src="https://www.linkedin.com/in/alexandre-gorius/"><</a>
+<a src="https://www.linkedin.com/in/alexandre-gorius/"></a>
 
 <h2>Preamble</h2>
 <br

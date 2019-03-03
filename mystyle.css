@@ -1,0 +1,19 @@
+p {
+font-family: Times New Roman, Georgia, Serif;
+letter-spacing: 2px;
+font-size: 14px;
+color: #622417;
+
+}
+a link{
+color:#176224;
+
+}
+
+a hover {
+color:#17624a;
+}
+
+a visited {
+color: #485d56;
+}
