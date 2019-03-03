@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
 <header>
@@ -9,8 +10,8 @@
 <p>11 may 2016, Alexandre Gorius</p>
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"></img>
-<a src="https://nationall.eu/"></a>
-<a src="https://www.linkedin.com/in/alexandre-gorius/"></a>
+<a href="https://nationall.eu/"></a>
+<a href="https://www.linkedin.com/in/alexandre-gorius/"></a>
 
 <h2>Preamble</h2>
 <br
