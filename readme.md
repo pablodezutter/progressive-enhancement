@@ -8,7 +8,7 @@
 
 <p>11 may 2016, Alexandre Gorius</p>
 
-<img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"</img>
+<img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"></img>
 <a src="https://nationall.eu/"></a>
 <a src="https://www.linkedin.com/in/alexandre-gorius/"><</a>
 
@@ -20,6 +20,7 @@
 <li> then tell it to your best friend</li>
 </ul>
 </header>
+<br>
 
 <blockquote>
 <h2>The story</h2>
@@ -83,8 +84,9 @@
 <p><span class="good">Good and <span class="bad">Bad are just one perspective.</p><p> Bananas are good for monkeys, but monkeys are not good for bananas.</p><p> Let's not make a big deal out of it...</p>
 <br>
 ----
+
 <footer>
-<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href:"https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank">click here to go</a><p>
+<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href= "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="adapted from this article on wellsbaum.blog">click here to go</a><p>
 
 </footer>
 </body>
