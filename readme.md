@@ -10,11 +10,15 @@
 <p>11 may 2016, Alexandre Gorius</p>
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="me putting some plaster"></img>
-<a href="https://nationall.eu/">link 1</a>
-<a href="https://www.linkedin.com/in/alexandre-gorius/">link 2</a>
+<br>
+<p>Some usefull links:</p>
+<ol>
+<li><a href="https://nationall.eu/" target="_blank">link 1</a></li>
+<li><a href="https://www.linkedin.com/in/alexandre-gorius/" target="_blank">link 2</a></li>
+</ol>
 
 <h2>Preamble</h2>
-<br
+<br>
 <ul>
 <li> read this once</li>
 <li> then read it again</li>
@@ -87,7 +91,7 @@
 ----
 
 <footer>
-<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href= "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="adapted from this article on wellsbaum.blog">click here to go</a><p>
+<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href= "https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="adapted" from this article on wellsbaum.blog">click here to go</a><p>
 
 </footer>
 </body>
