@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<header
+<header>
 <h1>The Story of the Chinese Farmer</h1>
 
 <p>11 may 2016, Alexandre Gorius</p>
@@ -78,14 +78,13 @@
 
 <caption>Table representing the farmer's philosophy.</caption><!--should be on the head of the table-->  
 </table>
-   
-   
+      
 <h2>Conclusion</h2>
-<p>Good and Bad are just one perspective.</p><p> Bananas are good for monkeys, but monkeys are not good for bananas.</p><p> Let's not make a big deal out of it...</p>
+<p><span class="good">Good and <span class="bad">Bad are just one perspective.</p><p> Bananas are good for monkeys, but monkeys are not good for bananas.</p><p> Let's not make a big deal out of it...</p>
 <br>
 ----
 <footer>
-<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href:"https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="blank">click here to go</a><p>
+<p>Copyright Just Another Company 2017. All right reserved. Adapted from this article: <a href:"https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank">click here to go</a><p>
 
 </footer>
 </body>
