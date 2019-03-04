@@ -1,20 +1,60 @@
+
+body {
+background-image: linear-gradient(to right, #16ed71,#145a29);
+max-width: 90%;
+margin: auto;
+font-family: serif;
+color: #622417;
+}
+
 p {
-font-family: Times New Roman, Georgia, Serif;
-letter-spacing: 2px;
-font-size: 14px;
+font-family: FreeSerif, Times New Roman, Georgia, Serif;
+letter-spacing: 4px;
+font-size: 18px;
 color: #622417;
 
 }
+
+q {
+display:block;
+width: 300px;
+margin: auto;
+font-size: 160%;
+background-color: lightgrey;
+border-left:dashed;
+border-width: 3px;
+padding-left: 30px;
+margin-top: 80px;
+margin-bottom: 80px;
+
+}
+
+img {
+width: 500px;
+height: 300px;
+
+
+}
+
+
+
+a {
+font-family: FreeSerif, Georgia, Times New Roman,
+
+
+
+}
+
 a:link{
 color:#176224;
+font-weight: bolder;
+}
+
+a:visited {
+color: brown;
 
 }
 
 a:hover {
-color:#17624a;
-}
-
-a:visited {
-color: #485d56;
-
+color:blue;
 }
