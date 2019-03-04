@@ -5,15 +5,16 @@ font-size: 14px;
 color: #622417;
 
 }
-a link{
+a:link{
 color:#176224;
 
 }
 
-a hover {
+a:hover {
 color:#17624a;
 }
 
-a visited {
+a:visited {
 color: #485d56;
+
 }
