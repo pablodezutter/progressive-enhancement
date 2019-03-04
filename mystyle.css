@@ -5,15 +5,67 @@ max-width: 90%;
 margin: auto;
 font-family: serif;
 color: #622417;
+background: url(zen.jpeg);
+background-repeat:no-repeat;
+background-position: bottom-right;
+background-size: cover;
 }
 
+header:first-child h1{
+background-color: yellow;
+
+}
+p:first-of-type{
+font-weight: bold;
+
+}
+
+
+
+
 p {
-font-family: FreeSerif, Times New Roman, Georgia, Serif;
+font-family:  Times New Roman, Georgia, Serif;
 letter-spacing: 4px;
 font-size: 18px;
 color: #622417;
 
 }
+
+table{
+  border-style: dashed;
+}
+th{
+border-bottom: solid;
+
+}
+.white{
+  background-color: white;
+}
+
+.grey{
+background-color: grey;
+
+}
+
+.villagers {
+font-style: italic;
+border-color: blue;
+}
+
+.farmer {
+  font-style: italic;
+}
+
+.good {
+text-transform: capitalize;
+color: green;
+}
+
+.bad {
+text-transform: capitalize;
+color: red;
+ }
+
 
 q {
 display:block;
@@ -29,18 +81,17 @@ margin-bottom: 80px;
 
 }
 
+
+
 img {
 width: 500px;
 height: 300px;
 
-
 }
-
 
 
 a {
 font-family: FreeSerif, Georgia, Times New Roman,
-
 
 
 }
@@ -57,4 +108,13 @@ color: brown;
 
 a:hover {
 color:blue;
+}
+
+.thumb{
+list-style-image: url(bien.png);
+
+}
+
+.cat{
+list-style-image: url(chat.png);
 }
