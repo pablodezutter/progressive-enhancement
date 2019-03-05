@@ -104,13 +104,11 @@ padding: 5px;
 float:right;
 margin-left:10px;
 
-
 }
 
 
 a {
 font-family: FreeSerif, Georgia, Times New Roman,
-
 
 }
 
@@ -124,18 +122,23 @@ color: brown;
 
 }
 
+
 a:hover {
 color:blue;
+
 }
+
 
 .thumb{
 list-style-image: url(bien.png);
 
 }
 
+
 .cat{
 list-style-image: url(chat.png);
 }
+
 
 footer {
 border-top: solid;
