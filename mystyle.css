@@ -1,14 +1,27 @@
+* {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+#main{
+max-width: 90%;
+margin: 0,auto;
+
+}
+
 
 body {
 background-image: linear-gradient(to right, #16ed71,#145a29);
 max-width: 90%;
 margin: auto;
-font-family: serif;
+font-family: 'Open Sans';
 color: #622417;
 background: url(zen.jpeg);
 background-repeat:no-repeat;
 background-position: bottom-right;
 background-size: cover;
+
 }
 
 header:first-child h1{
@@ -25,7 +38,7 @@ font-weight: bold;
 
 p {
 font-family:  Times New Roman, Georgia, Serif;
-letter-spacing: 4px;
+letter-spacing: 2px;
 font-size: 18px;
 color: #622417;
 
@@ -76,7 +89,7 @@ background-color: lightgrey;
 border-left:dashed;
 border-width: 3px;
 padding-left: 30px;
-margin-top: 80px;
+margin-top: 60px;
 margin-bottom: 80px;
 
 }
@@ -85,7 +98,11 @@ margin-bottom: 80px;
 
 img {
 width: 300px;
-height: 200px;
+display: block;
+height: auto;
+padding: 5px;
+float:right;
+margin-top: -50px;
 
 
 }
@@ -118,4 +135,16 @@ list-style-image: url(bien.png);
 
 .cat{
 list-style-image: url(chat.png);
+}
+
+footer {
+border-top: solid;
+border-width: 5px;
+border-radius: 8px;
+background-color: white;
+margin-bottom: -10px;
+padding-bottom: 30px;
+text-align: center;
+
+
 }
