@@ -15,7 +15,7 @@ body {
 background-image: linear-gradient(to right, #16ed71,#145a29);
 max-width: 90%;
 margin: auto;
-font-family: 'Open Sans';
+font-family: Open Sans;
 color: #622417;
 background: url(zen.jpeg);
 background-repeat:no-repeat;
@@ -37,7 +37,7 @@ font-weight: bold;
 
 
 p {
-font-family:  Times New Roman, Georgia, Serif;
+font-family:  Open Sans, Times New Roman, Georgia, Serif;
 letter-spacing: 2px;
 font-size: 18px;
 color: #622417;
@@ -102,7 +102,7 @@ display: block;
 height: auto;
 padding: 5px;
 float:right;
-margin-top: -50px;
+margin-left:10px;
 
 
 }
